@@ -8,7 +8,7 @@ import threading
 class LogoOverlayApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Gắn Logo vào Video")
+        self.root.title("Gắn Logo vào Video (By Ly Han)")
         self.root.geometry("600x400")
         self.root.resizable(False, False)
         
